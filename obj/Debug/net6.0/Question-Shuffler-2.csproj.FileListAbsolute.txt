@@ -1,0 +1,10 @@
+C:\Users\Shady\Code\C# Practice\Question-Shuffler-2\obj\Debug\net6.0\Question-Shuffler-2.csproj.AssemblyReference.cache
+C:\Users\Shady\Code\C# Practice\Question-Shuffler-2\obj\Debug\net6.0\Question-Shuffler-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shady\Code\C# Practice\Question-Shuffler-2\obj\Debug\net6.0\Question-Shuffler-2.AssemblyInfoInputs.cache
+C:\Users\Shady\Code\C# Practice\Question-Shuffler-2\obj\Debug\net6.0\Question-Shuffler-2.AssemblyInfo.cs
+C:\Users\Shady\Code\C# Practice\Question-Shuffler-2\obj\Debug\net6.0\Question-Shuffler-2.csproj.CoreCompileInputs.cache
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler-2.csproj.AssemblyReference.cache
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler-2.AssemblyInfoInputs.cache
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler-2.AssemblyInfo.cs
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler-2.csproj.CoreCompileInputs.cache
