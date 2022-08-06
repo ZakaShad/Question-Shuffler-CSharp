@@ -1,0 +1,18 @@
+//Comments with // should be ignored
+Why did the chicken cross the road?
+	To get to the other side
+	
+Describe fopen:
+	No
+	
+What's 9+10?
+	*1921 //* in ans field means question is not open
+	
+*Name the three starter pokemon types?
+	Fire, Water, Grass
+//*in Q field indicated priorty
+
+**Fire type pokemon weakness?
+	Water, Rock, Ground
+//** indicates priority. * > ** > -
+//in other words, * = p1, ** = p2
