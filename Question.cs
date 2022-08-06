@@ -14,6 +14,7 @@ namespace TestShuffler
 
         public string Ans {
             get {return _ans;}
+            set {_ans=value;}
         }
 
         public bool Verifiable {
@@ -24,7 +25,7 @@ namespace TestShuffler
             get {return _pri;}
         }
 
-        public Question(string t, string a, bool v, int p=9){
+        public Question(string t, string a, bool v=false, int p=9){
             _text = t;
             _ans = a;
             _verif = v;
