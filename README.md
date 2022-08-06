@@ -5,6 +5,7 @@
 - Automatic category creation based on csv files in current directory
 	- That is, every file should be its own category
 	- If not possible, store data in a file so user doesn't continualy re-input
+<br>
 
 # Input
 CSV File following this format:
@@ -36,3 +37,29 @@ What's 11+10?
 	Amino acids I think
 //** indicates priority. * > ** > -
 ```
+<br>
+
+# Rough Class UML
+## Question Class
+### Properties
+String Text;
+String Answer;
+Bool verifiable; // only verifyable if not open
+Int priority; // the higher the number the lower the priority
+### Methods
+ask();
+verify();	
+<br>
+
+## Category Class
+#### Properties
+String Questions[];
+String Starred[];
+int score;
+#### Methods
+run();
+starQuestion(Question);
+runStarred();
+init();	
+<br>
+<br>
