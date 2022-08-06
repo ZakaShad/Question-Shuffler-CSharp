@@ -1,0 +1,15 @@
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler.csproj.AssemblyReference.cache
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler.AssemblyInfoInputs.cache
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler.AssemblyInfo.cs
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler.csproj.CoreCompileInputs.cache
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\bin\Debug\net6.0\Question-Shuffler.exe
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\bin\Debug\net6.0\Question-Shuffler.deps.json
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\bin\Debug\net6.0\Question-Shuffler.runtimeconfig.json
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\bin\Debug\net6.0\Question-Shuffler.dll
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\bin\Debug\net6.0\Question-Shuffler.pdb
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler.dll
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\refint\Question-Shuffler.dll
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler.pdb
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\Question-Shuffler.genruntimeconfig.cache
+C:\Users\Shady\Code\C# Practice\Question-Shuffler\obj\Debug\net6.0\ref\Question-Shuffler.dll
