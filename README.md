@@ -40,26 +40,30 @@ What's 11+10?
 <br>
 
 # Rough Class UML
-## Question Class
-### Properties
+### Question Class
+```
+// Properties
 String Text;
 String Answer;
 Bool verifiable; // only verifyable if not open
 Int priority; // the higher the number the lower the priority
-### Methods
+// Methods
 ask();
 verify();	
 <br>
+```
 
-## Category Class
-#### Properties
+### Category Class
+```
+// Properties
 String Questions[];
 String Starred[];
 int score;
-#### Methods
+// Methods
 run();
 starQuestion(Question);
 runStarred();
 init();	
+```
 <br>
 <br>
