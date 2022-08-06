@@ -47,6 +47,7 @@ String Text;
 String Answer;
 Bool verifiable; // only verifyable if not open
 Int priority; // the higher the number the lower the priority
+
 // Methods
 ask();
 verify();	
@@ -59,6 +60,7 @@ verify();
 String Questions[];
 String Starred[];
 int score;
+
 // Methods
 run();
 starQuestion(Question);
